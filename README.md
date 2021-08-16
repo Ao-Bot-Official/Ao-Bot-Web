@@ -1,1 +1,1 @@
-# !(https://docs.aobot.botscord.site/)
+# https://docs.aobot.botscord.site/
